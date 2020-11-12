@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840788786742",
+    "firebase_url": "https://quizity-f9f55.firebaseio.com",
+    "project_id": "quizity-f9f55",
+    "storage_bucket": "quizity-f9f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840788786742:android:42a8f52bf9d1e71862a297",
+        "android_client_info": {
+          "package_name": "ml.meliharik.quizity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840788786742-7didqkjkkc7n5p9nfa8hhbl65emfkpnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqnM6eejXid8AO6pMAafwgDTH5NDAxPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840788786742-7didqkjkkc7n5p9nfa8hhbl65emfkpnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
